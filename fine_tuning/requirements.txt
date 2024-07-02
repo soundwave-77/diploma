@@ -1,0 +1,8 @@
+torch==2.2.2
+transformers
+sentence_transformers
+wandb
+pandas
+scikit-learn
+tensordict
+pytorch-metric-learning
